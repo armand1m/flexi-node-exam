@@ -1,0 +1,12 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "cliff": "^0.1.10",
+    "fast-memoize": "^2.2.7",
+    "hapi": "^16.1.0"
+  }
+}
